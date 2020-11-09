@@ -360,6 +360,7 @@ background-repeat:no-repeat;
   font-size: 1em;
   height: 100%;
   overflow: hidden;
+  opacity: 0.8;
 }
 .banner-pattern{
  background: url("../images/03_overlay_pattern.png") repeat scroll left top rgba(0, 0, 0, 0);
@@ -3800,3 +3801,6 @@ line-height:30px;
 }
 
 
+.justufy-align{
+  text-align: justify;
+}
